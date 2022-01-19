@@ -21,7 +21,7 @@ Syntax highlighted code block
 2. List
 **Bold** and _Italic_ and `Code` text
 ```
-[Link](main/articulo.md) and ![Image](src)
+[Link](/articulo.md) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
